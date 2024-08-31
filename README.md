@@ -24,7 +24,7 @@ For benchmark results, run:
 python3 test.py
 ````
 
-Also if one wants to tag any sentence to its parts can run `tag()` function.
+Also if one wants to tag any sentence to its parts, can run `tag()` function.
 
 
 ## **Metrics**
