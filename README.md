@@ -44,7 +44,7 @@ Also if one wants to tag any sentence to its parts, can run `tag()` function.
   </h1>
 </div>
 
-- Just a little bit, no, a lot of it, I really, really gotta quit.
+- "Just a little bit, no, a lot of it, I really, really gotta quit."
 
 ````text
 ['RB' 'DT' 'JJ' 'NN' 'PUNCT' 'UH' 'PUNCT' 'DT' 'NN' 'IN' 'PUNCT' 'PUNCT' 'PUNCT' 'RB' 'PUNCT' 'RB' 'JJ' 'NN' 'PUNCT']
@@ -57,7 +57,7 @@ Also if one wants to tag any sentence to its parts, can run `tag()` function.
   </h1>
 </div>
 
-- Something's wrong with me, my God, old habits die hard.
+- "Something's wrong with me, my God, old habits die hard."
 
 ````text
 ['RB' 'JJ' 'IN' 'PUNCT' 'PUNCT' 'PRP$' 'PUNCT' 'PUNCT' 'JJ' 'NNS' 'PUNCT' 'RB' 'PUNCT']
@@ -71,7 +71,7 @@ Also if one wants to tag any sentence to its parts, can run `tag()` function.
   </h1>
 </div>
 
-- I guess I had to go to that place to get to this one.
+- "I guess I had to go to that place to get to this one."
 
 ````text
 ['PUNCT' 'PUNCT' 'PUNCT' 'VBD' 'TO' 'VB' 'IN' 'DT' 'NN' 'TO' 'VB' 'IN' 'DT' 'NN' 'PUNCT']
