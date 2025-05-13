@@ -3,7 +3,7 @@
 This repository contains the implementation of well known part of speech (POS) tagging algorithm in NLP.
 
 ## **Installation**
-* Make sure you had installed the requiring libraries in your system.
+* Make sure you had installed the required libraries in your system.
 
 * Clone repository to your local machine.
  ````text
